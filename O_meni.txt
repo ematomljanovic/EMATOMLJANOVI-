@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Ema Tomljanović</title>
+</head>
+<body> 
+
+<br/>
+<body style="background-color:powderblue;">
+<h1> <span style="color:blue"> Ema Tomljanović </span>  </h1>
+<h3>O meni:</h3>
+<p>Zovem se <b>Ema Tomljanović</b> i rođena sam u Senju 28.6.2003. <br/> 
+Ondje sam završila osnovnu školu te gimnaziju, a kasnije sam se odselila u Zagreb i upisala Grafički fakultet. <br/> 
+Imam mnogo hobija, volim se baviti glazbom i raznim vrstama umjetnosti. <br/>
+<br/>Glazbom se bavim već 12 godina, sviram gitaru i klavir te pokušavam naučiti svirati i ostale instrumente, barem osnove. </br>
+Rado putujem, sudjelujem u maškaranoj povorci tijekom Senjskog Ljetnog Karnevala, čitam, gledam filmove i serije, igram igrice, pečem kolače, igram se s psom itd. <br/>  <Q>ja san rojen
+da mi bude lipo</Q>, citat je iz pjesme s kojim se poistovjećujem.
+<br/> <i>Volim raditi, ali ni <q>ljenčarenje</q> mi ne pada teško. :) </i> </p>
+
+<br> </br>
+
+<br> 
+Sljedeće fotografije prikazuju mene i moje interese poput sviranje, oslikavanja zidova te sudjelovanje u Međunardonom Senjskom Ljertnom Karnevalu za koji sam sama izradila kostim:
+</br>
+<br/> <br/>
+<img src="C:\Users\Ema\Desktop\PROJEKTNI ZADATAK\Slike\sviranje.jpg" alt="Sviranje" 
+     width="800" 
+     height="1000" />
+<br/>
+<img src="C:\Users\Ema\Desktop\PROJEKTNI ZADATAK\Slike\oslikavanje.jpg" alt="Oslikavanje"
+width="800" 
+     height="1000" >
+<br/>
+<img src="C:\Users\Ema\Desktop\PROJEKTNI ZADATAK\Slike\karneval.jpg" alt="Maskiranje"
+width="800" 
+     height="1000" >
+<br/>
+
+ <br> 
+Sljedeći videi prikazuju neke od pjesama koje jako volim:
+</br>
+
+<br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ow_qI_F2ZJI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a41bERTFBUI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tAGnKpE4NCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SEaaqnXqhYw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</body>
+</html>
